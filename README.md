@@ -1,4 +1,4 @@
-# Pig-Game-Python
+# PigRoll Python Challenge
 
 ## Project description
 
